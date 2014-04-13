@@ -1,5 +1,3 @@
 datasciencecoursera
 ===================
-
-Coursera excercise
-##Helloworld.md
+##HelloWorld.md
